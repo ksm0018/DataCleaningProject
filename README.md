@@ -1,6 +1,6 @@
 # Cleaning Housing Data with Microsoft SQL Server
 
-In the project, I cleaned up an excel based dataset containing housing data from Nashville, Tennessee. 
+In this project, I cleaned up an excel based dataset containing housing data from Nashville, Tennessee. 
 
 # Tools Used
 
