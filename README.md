@@ -11,4 +11,4 @@ In this project, I cleaned up an excel based dataset containing housing data fro
 
 Link to dataset:
 
-https://tigermailauburn-my.sharepoint.com/:x:/g/personal/ksm0018_tigermail_auburn_edu/EUV-YAJQ95pHu_aWIJEcEHkBrqC8C36c3C7n0m3tiodCHg?e=sWJX9X
+https://tinyurl.com/5575vbay
